@@ -1,0 +1,7 @@
+com\producer\batch\Writer.class
+com\producer\batch\BatchConfig.class
+com\producer\batch\Processor.class
+com\producer\model\Customer.class
+com\producer\repository\CustomerRepository.class
+com\producer\controller\CustomerController.class
+com\producer\SpringBatchKafkaProducerApplication.class
