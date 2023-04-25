@@ -1,0 +1,5 @@
+com\cosumer\kafkaconsumer\KafkaConsumer.class
+com\cosumer\repository\CustomerRepository.class
+com\cosumer\config\KafkaConfig.class
+com\cosumer\SpringBatchKafkaConsumerApplication.class
+com\cosumer\model\Customer.class
